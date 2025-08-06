@@ -20,7 +20,7 @@ By the end of this course, students will be able to:
 ✅ **Use Docker Compose** for multi-container applications  
 ✅ **Deploy applications** using Docker Hub and registries  
 ✅ **Implement CI/CD pipelines** with GitHub Actions and Docker  
-✅ **Build a complete web application** with database using Docker  
+✅ **Build a complete web application** using Docker  
 
 ---
 
