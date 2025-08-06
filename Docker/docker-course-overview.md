@@ -37,8 +37,7 @@ By the end of this course, students will be able to:
 
 ### **Session 3: Advanced Docker & Real-World Project (2 Hours)**
 - **Module 6:** Docker Hub, Registries & CI/CD (45 min)
-- **Module 7:** Complete Project - AI-Powered Voting App (60 min)
-- **Module 8:** Docker Security & Production Concepts (15 min)
+- **Module 7:** Complete Project -voice-to-test-app (60 min)
 
 ---
 
@@ -53,17 +52,7 @@ docker-course/
 ├── module-4-images-dockerfile.md     # Images and Dockerfiles
 ├── module-5-docker-compose.md        # Multi-container apps
 ├── module-6-registries-cicd.md       # Docker Hub & GitHub Actions
-├── module-7-voting-app-project.md    # Complete hands-on project
-├── module-8-security-production.md   # Security and advanced concepts
-├── project/                           # Project files
-│   ├── voting-app/
-│   ├── docker-compose.yml
-│   └── Dockerfiles/
-└── resources/                         # Additional resources
-    ├── cheat-sheets/
-    └── troubleshooting.md
-```
-
+├── module-7-voice-to-test-app.md    # Complete hands-on project
 ---
 
 ## 🚀 Quick Start Guide
