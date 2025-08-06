@@ -1,5 +1,13 @@
 # 🚀 Learning Linux & Shell Scripting For DevOps - Online Environment
 
+# What is Linux? (Definition)
+
+**Linux** is a free, open-source operating system based on Unix. It is the foundation of most servers, cloud platforms, and DevOps tools worldwide. Linux is known for its stability, security, and flexibility, allowing multiple users and multitasking, and treating everything (devices, processes, data) as files in a hierarchical directory structure.
+
+## Why Learn Linux for DevOps?
+
+Linux powers the majority of IT infrastructure and cloud environments. DevOps professionals rely on Linux for automation, server management, and application deployment. Mastering Linux and shell scripting is essential for anyone pursuing a career in DevOps, cloud computing, or system administration.
+
 ## Course Overview
 
 **Target Audience:** Computer Science Students  
